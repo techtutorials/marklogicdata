@@ -1,0 +1,37 @@
+xdmp:document-load("C:\Users\arora\Documents\marklogic\data\cleanwateract.xml", <options xmlns="xdmp:document-load"><uri>/documents/cleanwater.xml</uri>
+      <repair>none</repair>
+      <permissions>{xdmp:default-permissions()}</permissions>
+      <collections>
+        <collection>Clean Water</collection>
+      </collections>
+      <metadata>{
+        map:map() => map:with("c", "clean")
+                  => map:with("w", "water")
+      }</metadata>
+    </options>);
+
+xdmp:document-load("C:\Users\arora\Documents\marklogic\data\disinfection.xml", <options xmlns="xdmp:document-load"><uri>/documents/disinfection.xml</uri>
+      <repair>none</repair>
+      <permissions>{xdmp:default-permissions()}</permissions>
+      <collections>
+        <collection>Disinfection</collection>
+      </collections>
+      </options>);
+
+xdmp:document-load("C:\Users\arora\Documents\marklogic\data\distillation.xml", <options xmlns="xdmp:document-load"><uri>/documents/distillation.xml</uri>
+      <repair>none</repair>
+      <collections>
+        <collection>Distillation</collection>
+      </collections>
+      <permissions>{xdmp:default-permissions()}</permissions>
+    </options>);
+    
+xdmp:document-load("C:\Users\arora\Documents\marklogic\data\drinkingwaterqualitystandards.xml", <options xmlns="xdmp:document-load"><uri>/documents/drinkingwaterqualitystandards.xml</uri>
+      <repair>none</repair>
+      <collections>
+        <collection>Drinking Water Quality Standards</collection>
+      </collections>
+      <permissions>{xdmp:default-permissions()}</permissions>
+    </options>);
+
+

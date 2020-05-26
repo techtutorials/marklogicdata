@@ -1,0 +1,13 @@
+'use strict';
+declareUpdate();
+xdmp.documentLoad('C:\\Users/arora/Documents/marklogic/data/envlaws.xml',
+    { 'uri' : '/documents/envlaws.xml',
+      'permissions' : xdmp.defaultPermissions(),
+      'collections': 'Environmental Laws'
+    });
+
+xdmp.documentLoad('C:\\Users/arora/Documents/marklogic/data/hurricane.json',
+    { 'uri' : '/documents/hurricane.json',
+      'permissions' : xdmp.defaultPermissions(),
+     'collections': 'Hurricane'
+    });
