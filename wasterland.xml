@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Wetland</title>
+  <displaytitle>Wetland</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q170321</wikibase_item>
+  <titles>
+    <canonical>Wetland</canonical>
+    <normalized>Wetland</normalized>
+    <display>Wetland</display>
+  </titles>
+  <pageid>102024</pageid>
+  <thumbnail>
+    <source>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Freshwater_swamp_forest_in_Gowainghat_Sylhet_Bangladesh_photo_taken_in_July_2016.jpg/320px-Freshwater_swamp_forest_in_Gowainghat_Sylhet_Bangladesh_photo_taken_in_July_2016.jpg</source>
+    <width>320</width>
+    <height>193</height>
+  </thumbnail>
+  <originalimage>
+    <source>https://upload.wikimedia.org/wikipedia/commons/8/8f/Freshwater_swamp_forest_in_Gowainghat_Sylhet_Bangladesh_photo_taken_in_July_2016.jpg</source>
+    <width>2048</width>
+    <height>1232</height>
+  </originalimage>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>957746018</revision>
+  <tid>986c6cd0-9a82-11ea-a452-3f9b09675535</tid>
+  <timestamp>2020-05-20T10:13:38Z</timestamp>
+  <description>land area that is permanently or seasonally saturated with water</description>
+  <description_source>local</description_source>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Wetland</page>
+      <revisions>https://en.wikipedia.org/wiki/Wetland?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Wetland?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Wetland</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Wetland</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Wetland</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Wetland?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Wetland</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Wetland</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Wetland</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Wetland</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Wetland</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Wetland</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Wetland</talk_page_html>
+  </api_urls>
+  <extract>A wetland is a distinct ecosystem that is flooded by water, either permanently or seasonally, where oxygen-free processes prevail. The primary factor that distinguishes wetlands from other land forms or water bodies is the characteristic vegetation of aquatic plants, adapted to the unique hydric soil. Wetlands play a number of functions, including water purification, water storage, processing of carbon and other nutrients, stabilization of shorelines, and support of plants and animals. Wetlands are also considered the most biologically diverse of all ecosystems, serving as home to a wide range of plant and animal life. Whether any individual wetland performs these functions, and the degree to which it performs them, depends on characteristics of that wetland and the lands and waters near it. Methods for rapidly assessing these functions, wetland ecological health, and general wetland condition have been developed in many regions and have contributed to wetland conservation partly by raising public awareness of the functions and the ecosystem services some wetlands provide.</extract>
+  <extract_html>&lt;p&gt;A &lt;b&gt;wetland&lt;/b&gt; is a distinct ecosystem that is flooded by water, either permanently or seasonally, where oxygen-free processes prevail. The primary factor that distinguishes wetlands from other land forms or water bodies is the characteristic vegetation of aquatic plants, adapted to the unique hydric soil. Wetlands play a number of functions, including water purification, water storage, processing of carbon and other nutrients, stabilization of shorelines, and support of plants and animals. Wetlands are also considered the most biologically diverse of all ecosystems, serving as home to a wide range of plant and animal life. Whether any individual wetland performs these functions, and the degree to which it performs them, depends on characteristics of that wetland and the lands and waters near it. Methods for rapidly assessing these functions, wetland ecological health, and general wetland condition have been developed in many regions and have contributed to wetland conservation partly by raising public awareness of the functions and the ecosystem services some wetlands provide.&lt;/p&gt;</extract_html>
+</root>

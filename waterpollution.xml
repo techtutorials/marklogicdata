@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Water pollution</title>
+  <displaytitle>Water pollution</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q183129</wikibase_item>
+  <titles>
+    <canonical>Water_pollution</canonical>
+    <normalized>Water pollution</normalized>
+    <display>Water pollution</display>
+  </titles>
+  <pageid>312266</pageid>
+  <thumbnail>
+    <source>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Nrborderborderentrythreecolorsmay05-1-.JPG/320px-Nrborderborderentrythreecolorsmay05-1-.JPG</source>
+    <width>320</width>
+    <height>240</height>
+  </thumbnail>
+  <originalimage>
+    <source>https://upload.wikimedia.org/wikipedia/commons/8/8a/Nrborderborderentrythreecolorsmay05-1-.JPG</source>
+    <width>640</width>
+    <height>480</height>
+  </originalimage>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>953264821</revision>
+  <tid>2fe7fec0-95d4-11ea-9cdb-47754e4933af</tid>
+  <timestamp>2020-04-26T14:38:40Z</timestamp>
+  <description>Contamination of water bodies</description>
+  <description_source>local</description_source>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Water_pollution</page>
+      <revisions>https://en.wikipedia.org/wiki/Water_pollution?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Water_pollution?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Water_pollution</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Water_pollution</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Water_pollution</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Water_pollution?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Water_pollution</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Water_pollution</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Water_pollution</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Water_pollution</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Water_pollution</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Water_pollution</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Water_pollution</talk_page_html>
+  </api_urls>
+  <extract>Water pollution is the contamination of water bodies, usually as a result of human activities. Water bodies include for example lakes, rivers, oceans, aquifers and groundwater. Water pollution results when contaminants are introduced into the natural environment. For example, releasing inadequately treated wastewater into natural water bodies can lead to degradation of aquatic ecosystems. In turn, this can lead to public health problems for people living downstream. They may use the same polluted river water for drinking or bathing or irrigation. Water pollution is the leading worldwide cause of death and disease, e.g. due to water-borne diseases.</extract>
+  <extract_html>&lt;p&gt;&lt;b&gt;Water pollution&lt;/b&gt; is the contamination of water bodies, usually as a result of human activities. Water bodies include for example lakes, rivers, oceans, aquifers and groundwater. Water pollution results when contaminants are introduced into the natural environment. For example, releasing inadequately treated wastewater into natural water bodies can lead to degradation of aquatic ecosystems. In turn, this can lead to public health problems for people living downstream. They may use the same polluted river water for drinking or bathing or irrigation. Water pollution is the leading worldwide cause of death and disease, e.g. due to water-borne diseases.&lt;/p&gt;</extract_html>
+</root>

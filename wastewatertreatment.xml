@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Wastewater treatment</title>
+  <displaytitle>Wastewater treatment</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q20127660</wikibase_item>
+  <titles>
+    <canonical>Wastewater_treatment</canonical>
+    <normalized>Wastewater treatment</normalized>
+    <display>Wastewater treatment</display>
+  </titles>
+  <pageid>588004</pageid>
+  <thumbnail>
+    <source>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSCF9867_%28crop%29.jpg/214px-2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSCF9867_%28crop%29.jpg</source>
+    <width>214</width>
+    <height>320</height>
+  </thumbnail>
+  <originalimage>
+    <source>https://upload.wikimedia.org/wikipedia/commons/b/b8/2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSCF9867_%28crop%29.jpg</source>
+    <width>1906</width>
+    <height>2848</height>
+  </originalimage>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>952157470</revision>
+  <tid>8e4f5a60-9950-11ea-ae58-2f4d42271c47</tid>
+  <timestamp>2020-04-20T20:50:29Z</timestamp>
+  <description>Converting wastewater into an effluent for return to the water cycle</description>
+  <description_source>local</description_source>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Wastewater_treatment</page>
+      <revisions>https://en.wikipedia.org/wiki/Wastewater_treatment?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Wastewater_treatment?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Wastewater_treatment</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Wastewater_treatment</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Wastewater_treatment</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Wastewater_treatment?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Wastewater_treatment</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Wastewater_treatment</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Wastewater_treatment</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Wastewater_treatment</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Wastewater_treatment</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Wastewater_treatment</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Wastewater_treatment</talk_page_html>
+  </api_urls>
+  <extract>Wastewater treatment is a process used to remove contaminants from wastewater or sewage and convert it into an effluent that can be returned to the water cycle with minimum impact on the environment, or directly reused. The latter is called water reclamation because treated wastewater can be used for other purposes. The treatment process takes place in a wastewater treatment plant (WWTP), often referred to as a Water Resource Recovery Facility (WRRF) or a Sewage Treatment Plant (STP). Pollutants in municipal wastewater are removed or broken down.</extract>
+  <extract_html>&lt;p&gt;&lt;b&gt;Wastewater treatment &lt;/b&gt;is a process used to remove contaminants from wastewater or sewage and convert it into an effluent that can be returned to the water cycle with minimum impact on the environment, or directly reused. The latter is called water reclamation because treated wastewater can be used for other purposes. The treatment process takes place in a wastewater treatment plant (WWTP), often referred to as a Water Resource Recovery Facility (WRRF) or a Sewage Treatment Plant (STP). Pollutants in municipal wastewater are removed or broken down.&lt;/p&gt;</extract_html>
+</root>

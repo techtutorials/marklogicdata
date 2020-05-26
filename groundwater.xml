@@ -1,0 +1,57 @@
+{
+"type": "standard",
+"title": "Groundwater",
+"displaytitle": "Groundwater",
+"namespace": {
+"id": 0,
+"text": ""
+},
+"wikibase_item": "Q161598",
+"titles": {
+"canonical": "Groundwater",
+"normalized": "Groundwater",
+"display": "Groundwater"
+},
+"pageid": 262927,
+"thumbnail": {
+"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/AlapahaRiver2002.jpg/320px-AlapahaRiver2002.jpg",
+"width": 320,
+"height": 240
+},
+"originalimage": {
+"source": "https://upload.wikimedia.org/wikipedia/commons/0/07/AlapahaRiver2002.jpg",
+"width": 2010,
+"height": 1507
+},
+"lang": "en",
+"dir": "ltr",
+"revision": "957246889",
+"tid": "08fd69d0-9881-11ea-928c-8551bb8c9f76",
+"timestamp": "2020-05-17T20:57:31Z",
+"description": "Water located beneath the ground surface",
+"description_source": "local",
+"content_urls": {
+"desktop": {
+"page": "https://en.wikipedia.org/wiki/Groundwater",
+"revisions": "https://en.wikipedia.org/wiki/Groundwater?action=history",
+"edit": "https://en.wikipedia.org/wiki/Groundwater?action=edit",
+"talk": "https://en.wikipedia.org/wiki/Talk:Groundwater"
+},
+"mobile": {
+"page": "https://en.m.wikipedia.org/wiki/Groundwater",
+"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Groundwater",
+"edit": "https://en.m.wikipedia.org/wiki/Groundwater?action=edit",
+"talk": "https://en.m.wikipedia.org/wiki/Talk:Groundwater"
+}
+},
+"api_urls": {
+"summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Groundwater",
+"metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Groundwater",
+"references": "https://en.wikipedia.org/api/rest_v1/page/references/Groundwater",
+"media": "https://en.wikipedia.org/api/rest_v1/page/media/Groundwater",
+"edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Groundwater",
+"talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Groundwater"
+},
+"extract": "Groundwater is the water present beneath Earth's surface in soil pore spaces and in the fractures of rock formations. A unit of rock or an unconsolidated deposit is called an aquifer when it can yield a usable quantity of water. The depth at which soil pore spaces or fractures and voids in rock become completely saturated with water is called the water table. Groundwater is recharged from the surface; it may discharge from the surface naturally at springs and seeps, and can form oases or wetlands. Groundwater is also often withdrawn for agricultural, municipal, and industrial use by constructing and operating extraction wells. The study of the distribution and movement of groundwater is hydrogeology, also called groundwater hydrology.",
+"extract_html": "<p><b>Groundwater</b> is the water present beneath Earth's surface in soil pore spaces and in the fractures of rock formations. A unit of rock or an unconsolidated deposit is called an aquifer when it can yield a usable quantity of water. The depth at which soil pore spaces or fractures and voids in rock become completely saturated with water is called the water table. Groundwater is recharged from the surface; it may discharge from the surface naturally at springs and seeps, and can form oases or wetlands. Groundwater is also often withdrawn for agricultural, municipal, and industrial use by constructing and operating extraction wells. The study of the distribution and movement of groundwater is hydrogeology, also called groundwater hydrology.</p>"
+}

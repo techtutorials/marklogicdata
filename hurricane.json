@@ -1,0 +1,57 @@
+{
+"type": "standard",
+"title": "Hurricane Fred (2015)",
+"displaytitle": "Hurricane Fred (2015)",
+"namespace": {
+"id": 0,
+"text": ""
+},
+"wikibase_item": "Q20933307",
+"titles": {
+"canonical": "Hurricane_Fred_(2015)",
+"normalized": "Hurricane Fred (2015)",
+"display": "Hurricane Fred (2015)"
+},
+"pageid": 47678838,
+"thumbnail": {
+"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fred_2015-08-31_1215Z.jpg/245px-Fred_2015-08-31_1215Z.jpg",
+"width": 245,
+"height": 320
+},
+"originalimage": {
+"source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Fred_2015-08-31_1215Z.jpg",
+"width": 7200,
+"height": 9400
+},
+"lang": "en",
+"dir": "ltr",
+"revision": "958657322",
+"tid": "56eab670-9e26-11ea-84b6-2bcc5f719db2",
+"timestamp": "2020-05-25T01:23:23Z",
+"description": "2015 hurricane",
+"description_source": "central",
+"content_urls": {
+"desktop": {
+"page": "https://en.wikipedia.org/wiki/Hurricane_Fred_(2015)",
+"revisions": "https://en.wikipedia.org/wiki/Hurricane_Fred_(2015)?action=history",
+"edit": "https://en.wikipedia.org/wiki/Hurricane_Fred_(2015)?action=edit",
+"talk": "https://en.wikipedia.org/wiki/Talk:Hurricane_Fred_(2015)"
+},
+"mobile": {
+"page": "https://en.m.wikipedia.org/wiki/Hurricane_Fred_(2015)",
+"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hurricane_Fred_(2015)",
+"edit": "https://en.m.wikipedia.org/wiki/Hurricane_Fred_(2015)?action=edit",
+"talk": "https://en.m.wikipedia.org/wiki/Talk:Hurricane_Fred_(2015)"
+}
+},
+"api_urls": {
+"summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Hurricane_Fred_(2015)",
+"metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Hurricane_Fred_(2015)",
+"references": "https://en.wikipedia.org/api/rest_v1/page/references/Hurricane_Fred_(2015)",
+"media": "https://en.wikipedia.org/api/rest_v1/page/media/Hurricane_Fred_(2015)",
+"edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Hurricane_Fred_(2015)",
+"talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Hurricane_Fred_(2015)"
+},
+"extract": "Hurricane Fred was the easternmost Atlantic hurricane to form in the tropics, and the first to move through Cape Verde since 1892. The second hurricane and sixth named storm of the 2015 Atlantic hurricane season, Fred originated from a well-defined tropical wave over West Africa in late August 2015. Once offshore, the wave moved northwestward within a favorable tropospheric environment and strengthened into a tropical storm on August 30. The following day, Fred grew to a Category 1 hurricane with peak winds of 85 mph (140 km/h) as it approached Cape Verde. After passing Boa Vista and moving away from Santo Antão, it entered a phase of steady weakening, dropping below hurricane status by September 1. Fred then turned to the west-northwest, enduring increasingly hostile wind shear, but maintained its status as a tropical cyclone despite repeated forecasts of imminent dissipation. It fluctuated between minimal tropical storm and tropical depression strength through September 4–5 before curving sharply to the north. By September 6, Fred's circulation pattern had diminished considerably, and the storm dissipated later that day.",
+"extract_html": "<p><b>Hurricane Fred</b> was the easternmost Atlantic hurricane to form in the tropics, and the first to move through Cape Verde since 1892. The second hurricane and sixth named storm of the 2015 Atlantic hurricane season, Fred originated from a well-defined tropical wave over West Africa in late August 2015. Once offshore, the wave moved northwestward within a favorable tropospheric environment and strengthened into a tropical storm on August 30. The following day, Fred grew to a Category 1 hurricane with peak winds of 85 mph (140 km/h) as it approached Cape Verde. After passing Boa Vista and moving away from Santo Antão, it entered a phase of steady weakening, dropping below hurricane status by September 1. Fred then turned to the west-northwest, enduring increasingly hostile wind shear, but maintained its status as a tropical cyclone despite repeated forecasts of imminent dissipation. It fluctuated between minimal tropical storm and tropical depression strength through September 4–5 before curving sharply to the north. By September 6, Fred's circulation pattern had diminished considerably, and the storm dissipated later that day.</p>"
+}

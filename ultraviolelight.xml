@@ -1,0 +1,57 @@
+{
+"type": "standard",
+"title": "Ultraviolet",
+"displaytitle": "Ultraviolet",
+"namespace": {
+"id": 0,
+"text": ""
+},
+"wikibase_item": "Q11391",
+"titles": {
+"canonical": "Ultraviolet",
+"normalized": "Ultraviolet",
+"display": "Ultraviolet"
+},
+"pageid": 31990,
+"thumbnail": {
+"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pipefitter_welder_kutzo.jpg/320px-Pipefitter_welder_kutzo.jpg",
+"width": 320,
+"height": 240
+},
+"originalimage": {
+"source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pipefitter_welder_kutzo.jpg",
+"width": 1600,
+"height": 1200
+},
+"lang": "en",
+"dir": "ltr",
+"revision": "958168733",
+"tid": "234905f0-9c01-11ea-b2f0-65159a577ce0",
+"timestamp": "2020-05-22T07:51:58Z",
+"description": "Electromagnetic radiation with a wavelength shorter than that of visible light, but longer than X-rays",
+"description_source": "local",
+"content_urls": {
+"desktop": {
+"page": "https://en.wikipedia.org/wiki/Ultraviolet",
+"revisions": "https://en.wikipedia.org/wiki/Ultraviolet?action=history",
+"edit": "https://en.wikipedia.org/wiki/Ultraviolet?action=edit",
+"talk": "https://en.wikipedia.org/wiki/Talk:Ultraviolet"
+},
+"mobile": {
+"page": "https://en.m.wikipedia.org/wiki/Ultraviolet",
+"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ultraviolet",
+"edit": "https://en.m.wikipedia.org/wiki/Ultraviolet?action=edit",
+"talk": "https://en.m.wikipedia.org/wiki/Talk:Ultraviolet"
+}
+},
+"api_urls": {
+"summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Ultraviolet",
+"metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Ultraviolet",
+"references": "https://en.wikipedia.org/api/rest_v1/page/references/Ultraviolet",
+"media": "https://en.wikipedia.org/api/rest_v1/page/media/Ultraviolet",
+"edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Ultraviolet",
+"talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Ultraviolet"
+},
+"extract": "Ultraviolet (UV) is a form of electromagnetic radiation with wavelength from 10 nm to 400 nm, shorter than that of visible light but longer than X-rays. UV radiation is present in sunlight, and constitutes about 10% of the total electromagnetic radiation output from the Sun. It is also produced by electric arcs and specialized lights, such as mercury-vapor lamps, tanning lamps, and black lights. Although long-wavelength ultraviolet is not considered an ionizing radiation because its photons lack the energy to ionize atoms, it can cause chemical reactions and causes many substances to glow or fluoresce. Consequently, the chemical and biological effects of UV are greater than simple heating effects, and many practical applications of UV radiation derive from its interactions with organic molecules.",
+"extract_html": "<p><b>Ultraviolet</b> (<b>UV</b>) is a form of electromagnetic radiation with wavelength from 10 nm to 400 nm, shorter than that of visible light but longer than X-rays. UV radiation is present in sunlight, and constitutes about 10% of the total electromagnetic radiation output from the Sun. It is also produced by electric arcs and specialized lights, such as mercury-vapor lamps, tanning lamps, and black lights. Although long-wavelength ultraviolet is not considered an ionizing radiation because its photons lack the energy to ionize atoms, it can cause chemical reactions and causes many substances to glow or fluoresce. Consequently, the chemical and biological effects of UV are greater than simple heating effects, and many practical applications of UV radiation derive from its interactions with organic molecules.</p>"
+}

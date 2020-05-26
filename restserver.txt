@@ -1,0 +1,1 @@
+curl --anyauth --user admin:admin -i -X POST -d@"C:\Users\arora\Documents\marklogic\data\config.json" -i -H "Content-type: application/json" http://localhost:8002/LATEST/rest-apis

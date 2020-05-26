@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Distillation</title>
+  <displaytitle>Distillation</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q101017</wikibase_item>
+  <titles>
+    <canonical>Distillation</canonical>
+    <normalized>Distillation</normalized>
+    <display>Distillation</display>
+  </titles>
+  <pageid>8301</pageid>
+  <thumbnail>
+    <source>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Simple_distillation_apparatus.svg/241px-Simple_distillation_apparatus.svg.png</source>
+    <width>241</width>
+    <height>320</height>
+  </thumbnail>
+  <originalimage>
+    <source>https://upload.wikimedia.org/wikipedia/commons/9/9c/Simple_distillation_apparatus.svg</source>
+    <width>392</width>
+    <height>520</height>
+  </originalimage>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>956219562</revision>
+  <tid>d71a8f40-9409-11ea-9600-b1d99f51c9f8</tid>
+  <timestamp>2020-05-12T04:34:12Z</timestamp>
+  <description>method of separating mixtures based on differences in volatility of components in a boiling liquid mixture</description>
+  <description_source>central</description_source>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Distillation</page>
+      <revisions>https://en.wikipedia.org/wiki/Distillation?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Distillation?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Distillation</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Distillation</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Distillation</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Distillation?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Distillation</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Distillation</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Distillation</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Distillation</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Distillation</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Distillation</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Distillation</talk_page_html>
+  </api_urls>
+  <extract>Distillation is the process of separating the components or substances from a liquid mixture by using selective boiling and condensation. Distillation may result in essentially complete separation, or it may be a partial separation that increases the concentration of selected components in the mixture. In either case, the process exploits differences in the relative volatility of the mixture&#x27;s components. In industrial chemistry, distillation is a unit operation of practically universal importance, but it is a physical separation process, not a chemical reaction. Distillation can also be used to separate a solution made of two or more liquids or fractions, they are called miscible liquids and they must have different boiling points, for example, ethanol and water or fermented fruit juice. a condenser is used a mixture is heated to just over 80 degrees Celsius the ethanol will evaporate and is condensed. It can be collected in a beaker. The water remains in the flask.</extract>
+  <extract_html>&lt;p&gt;&lt;b&gt;Distillation&lt;/b&gt; is the process of separating the components or substances from a liquid mixture by using selective boiling and condensation. Distillation may result in essentially complete separation, or it may be a partial separation that increases the concentration of selected components in the mixture. In either case, the process exploits differences in the relative volatility of the mixture&#x27;s components. In industrial chemistry, distillation is a unit operation of practically universal importance, but it is a physical separation process, not a chemical reaction. Distillation can also be used to separate a solution made of two or more liquids or fractions, they are called miscible liquids and they must have different boiling points, for example, ethanol and water or fermented fruit juice. a condenser is used a mixture is heated to just over 80 degrees Celsius the ethanol will evaporate and is condensed. It can be collected in a beaker. The water remains in the flask.&lt;/p&gt;</extract_html>
+</root>

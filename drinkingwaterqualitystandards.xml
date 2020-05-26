@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Drinking water quality standards</title>
+  <displaytitle>Drinking water quality standards</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q5307745</wikibase_item>
+  <titles>
+    <canonical>Drinking_water_quality_standards</canonical>
+    <normalized>Drinking water quality standards</normalized>
+    <display>Drinking water quality standards</display>
+  </titles>
+  <pageid>25610874</pageid>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>954845147</revision>
+  <tid>8c3ece60-8e22-11ea-ac9d-dbe59c43c064</tid>
+  <timestamp>2020-05-04T16:15:59Z</timestamp>
+  <description>Quality parameters set for drinking water</description>
+  <description_source>local</description_source>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Drinking_water_quality_standards</page>
+      <revisions>https://en.wikipedia.org/wiki/Drinking_water_quality_standards?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Drinking_water_quality_standards?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Drinking_water_quality_standards</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Drinking_water_quality_standards</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Drinking_water_quality_standards</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Drinking_water_quality_standards?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Drinking_water_quality_standards</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Drinking_water_quality_standards</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Drinking_water_quality_standards</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Drinking_water_quality_standards</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Drinking_water_quality_standards</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Drinking_water_quality_standards</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Drinking_water_quality_standards</talk_page_html>
+  </api_urls>
+  <extract>Drinking water quality standards describes the quality parameters set for drinking water. Despite the truth that every human on this planet needs drinking water to survive and that water may contain many harmful constituents, there are no universally recognized and accepted international standards for drinking water. Even where standards do exist, and are applied, the permitted concentration of individual constituents may vary by as much as ten times from one set of standards to another.</extract>
+  <extract_html>&lt;p&gt;&lt;b&gt;Drinking water quality standards&lt;/b&gt; describes the quality parameters set for drinking water. Despite the truth that every human on this planet needs drinking water to survive and that water may contain many harmful constituents, there are no universally recognized and accepted international standards for drinking water. Even where standards do exist, and are applied, the permitted concentration of individual constituents may vary by as much as ten times from one set of standards to another.&lt;/p&gt;</extract_html>
+</root>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Slow sand filter</title>
+  <displaytitle>Slow sand filter</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q2608039</wikibase_item>
+  <titles>
+    <canonical>Slow_sand_filter</canonical>
+    <normalized>Slow sand filter</normalized>
+    <display>Slow sand filter</display>
+  </titles>
+  <pageid>1194140</pageid>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>944408200</revision>
+  <tid>21b8dff0-9957-11ea-82d9-19b200a5193e</tid>
+  <timestamp>2020-03-07T17:55:56Z</timestamp>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Slow_sand_filter</page>
+      <revisions>https://en.wikipedia.org/wiki/Slow_sand_filter?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Slow_sand_filter?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Slow_sand_filter</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Slow_sand_filter</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Slow_sand_filter</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Slow_sand_filter?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Slow_sand_filter</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Slow_sand_filter</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Slow_sand_filter</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Slow_sand_filter</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Slow_sand_filter</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Slow_sand_filter</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Slow_sand_filter</talk_page_html>
+  </api_urls>
+  <extract>
+Slow sand filters are used in water purification for treating raw water to produce a potable product. They are typically 1 to 2 metres deep, can be rectangular or cylindrical in cross section and are used primarily to treat surface water. The length and breadth of the tanks are determined by the flow rate desired by the filters, which typically have a loading rate of 200 to 400 litres per hour per square metre.</extract>
+  <extract_html>&lt;p&gt;
+&lt;b&gt;Slow sand filters&lt;/b&gt; are used in water purification for treating raw water to produce a potable product. They are typically 1 to 2 metres deep, can be rectangular or cylindrical in cross section and are used primarily to treat surface water. The length and breadth of the tanks are determined by the flow rate desired by the filters, which typically have a loading rate of 200 to 400 litres per hour per square metre.&lt;/p&gt;</extract_html>
+</root>

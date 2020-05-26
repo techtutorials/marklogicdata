@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Water purification</title>
+  <displaytitle>Water purification</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q1463025</wikibase_item>
+  <titles>
+    <canonical>Water_purification</canonical>
+    <normalized>Water purification</normalized>
+    <display>Water purification</display>
+  </titles>
+  <pageid>214701</pageid>
+  <thumbnail>
+    <source>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Usine_Bret_MG_1638.jpg/320px-Usine_Bret_MG_1638.jpg</source>
+    <width>320</width>
+    <height>213</height>
+  </thumbnail>
+  <originalimage>
+    <source>https://upload.wikimedia.org/wikipedia/commons/5/57/Usine_Bret_MG_1638.jpg</source>
+    <width>4368</width>
+    <height>2912</height>
+  </originalimage>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>955953955</revision>
+  <tid>aae84f70-92ec-11ea-81a3-87dbf7667c76</tid>
+  <timestamp>2020-05-10T18:32:51Z</timestamp>
+  <description>process of removing undesirable chemicals, biological contaminants, suspended solids from water</description>
+  <description_source>local</description_source>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Water_purification</page>
+      <revisions>https://en.wikipedia.org/wiki/Water_purification?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Water_purification?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Water_purification</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Water_purification</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Water_purification</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Water_purification?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Water_purification</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Water_purification</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Water_purification</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Water_purification</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Water_purification</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Water_purification</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Water_purification</talk_page_html>
+  </api_urls>
+  <extract>Water purification is the process of removing undesirable chemicals, biological contaminants, suspended solids, and gases from water. The goal is to produce water fit for specific purposes. Most water is purified and disinfected for human consumption, but water purification may also be carried out for a variety of other purposes, including medical, pharmacological, chemical, and industrial applications. The methods used include physical processes such as filtration, sedimentation, and distillation; biological processes such as slow sand filters or biologically active carbon; chemical processes such as flocculation and chlorination; and the use of electromagnetic radiation such as ultraviolet light.</extract>
+  <extract_html>&lt;p&gt;&lt;b&gt;Water purification&lt;/b&gt; is the process of removing undesirable chemicals, biological contaminants, suspended solids, and gases from water. The goal is to produce water fit for specific purposes. Most water is purified and disinfected for human consumption, but water purification may also be carried out for a variety of other purposes, including medical, pharmacological, chemical, and industrial applications. The methods used include physical processes such as filtration, sedimentation, and distillation; biological processes such as slow sand filters or biologically active carbon; chemical processes such as flocculation and chlorination; and the use of electromagnetic radiation such as ultraviolet light.&lt;/p&gt;</extract_html>
+</root>

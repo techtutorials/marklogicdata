@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Disinfectant</title>
+  <displaytitle>Disinfectant</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q73984</wikibase_item>
+  <titles>
+    <canonical>Disinfectant</canonical>
+    <normalized>Disinfectant</normalized>
+    <display>Disinfectant</display>
+  </titles>
+  <pageid>478185</pageid>
+  <thumbnail>
+    <source>https://upload.wikimedia.org/wikipedia/commons/4/4e/Disinfection_with_mop.jpg</source>
+    <width>188</width>
+    <height>250</height>
+  </thumbnail>
+  <originalimage>
+    <source>https://upload.wikimedia.org/wikipedia/commons/4/4e/Disinfection_with_mop.jpg</source>
+    <width>188</width>
+    <height>250</height>
+  </originalimage>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>957995048</revision>
+  <tid>e1ee9750-9b6a-11ea-a38b-b3d814284129</tid>
+  <timestamp>2020-05-21T13:56:30Z</timestamp>
+  <description>Antimicrobial agents that inactivate or destroy microorganisms</description>
+  <description_source>local</description_source>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Disinfectant</page>
+      <revisions>https://en.wikipedia.org/wiki/Disinfectant?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Disinfectant?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Disinfectant</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Disinfectant</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Disinfectant</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Disinfectant?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Disinfectant</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Disinfectant</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Disinfectant</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Disinfectant</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Disinfectant</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Disinfectant</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Disinfectant</talk_page_html>
+  </api_urls>
+  <extract>Disinfectants are chemical agents designed to inactivate or destroy microorganisms on inert surfaces. Disinfection does not necessarily kill all microorganisms, especially resistant bacterial spores; it is less effective than sterilization, which is an extreme physical or chemical process that kills all types of life. Disinfectants are generally distinguished from other antimicrobial agents such as antibiotics, which destroy microorganisms within the body, and antiseptics, which destroy microorganisms on living tissue. Disinfectants are also different from biocides — the latter are intended to destroy all forms of life, not just microorganisms.
+Disinfectants work by destroying the cell wall of microbes or interfering with their metabolism.</extract>
+  <extract_html>&lt;p&gt;&lt;b&gt;Disinfectants&lt;/b&gt; are chemical agents designed to inactivate or destroy microorganisms on inert surfaces. Disinfection does not necessarily kill all microorganisms, especially resistant bacterial spores; it is less effective than sterilization, which is an extreme physical or chemical process that kills all types of life. Disinfectants are generally distinguished from other antimicrobial agents such as antibiotics, which destroy microorganisms within the body, and antiseptics, which destroy microorganisms on living tissue. Disinfectants are also different from biocides — the latter are intended to destroy all forms of life, not just microorganisms.
+Disinfectants work by destroying the cell wall of microbes or interfering with their metabolism.&lt;/p&gt;</extract_html>
+</root>

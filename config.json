@@ -1,0 +1,6 @@
+{ "rest-api": {
+    "name": "water",
+    "database": "water",
+    "port": "8060",
+    "forests-per-host": 1
+} }

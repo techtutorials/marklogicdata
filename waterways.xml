@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Waterway</title>
+  <displaytitle>Waterway</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q1267889</wikibase_item>
+  <titles>
+    <canonical>Waterway</canonical>
+    <normalized>Waterway</normalized>
+    <display>Waterway</display>
+  </titles>
+  <pageid>174851</pageid>
+  <thumbnail>
+    <source>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Damnoensaduak97.jpg/218px-Damnoensaduak97.jpg</source>
+    <width>218</width>
+    <height>320</height>
+  </thumbnail>
+  <originalimage>
+    <source>https://upload.wikimedia.org/wikipedia/commons/f/fe/Damnoensaduak97.jpg</source>
+    <width>517</width>
+    <height>760</height>
+  </originalimage>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>920237326</revision>
+  <tid>306aa250-973f-11ea-98aa-87e0d8663efa</tid>
+  <timestamp>2019-10-08T13:28:29Z</timestamp>
+  <description>Any navigable body of water</description>
+  <description_source>local</description_source>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Waterway</page>
+      <revisions>https://en.wikipedia.org/wiki/Waterway?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Waterway?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Waterway</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Waterway</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Waterway</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Waterway?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Waterway</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Waterway</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Waterway</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Waterway</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Waterway</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Waterway</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Waterway</talk_page_html>
+  </api_urls>
+  <extract>A waterway is any navigable body of water. Broad distinctions are useful to avoid ambiguity, and disambiguation will be of varying importance depending on the nuance of the equivalent word in other languages. A first distinction is necessary between maritime shipping routes and waterways used by inland water craft. Maritime shipping routes cross oceans and seas, and some lakes, where navigability is assumed, and no engineering is required, except to provide the draft for deep-sea shipping to approach seaports (channels), or to provide a short cut across an isthmus; this is the function of ship canals. Dredged channels in the sea are not usually described as waterways. There is an exception to this initial distinction, essentially for legal purposes, see under international waters.</extract>
+  <extract_html>&lt;p&gt;A &lt;b&gt;waterway&lt;/b&gt; is any navigable body of water. Broad distinctions are useful to avoid ambiguity, and disambiguation will be of varying importance depending on the nuance of the equivalent word in other languages. A first distinction is necessary between maritime shipping routes and waterways used by inland water craft. Maritime shipping routes cross oceans and seas, and some lakes, where navigability is assumed, and no engineering is required, except to provide the draft for deep-sea shipping to approach seaports (channels), or to provide a short cut across an isthmus; this is the function of ship canals. Dredged channels in the sea are not usually described as waterways. There is an exception to this initial distinction, essentially for legal purposes, see under international waters.&lt;/p&gt;</extract_html>
+</root>

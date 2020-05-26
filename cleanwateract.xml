@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Clean Water Act</title>
+  <displaytitle>Clean Water Act</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q2978742</wikibase_item>
+  <titles>
+    <canonical>Clean_Water_Act</canonical>
+    <normalized>Clean Water Act</normalized>
+    <display>Clean Water Act</display>
+  </titles>
+  <pageid>647655</pageid>
+  <thumbnail>
+    <source>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/320px-Great_Seal_of_the_United_States_%28obverse%29.svg.png</source>
+    <width>320</width>
+    <height>320</height>
+  </thumbnail>
+  <originalimage>
+    <source>https://upload.wikimedia.org/wikipedia/commons/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg</source>
+    <width>600</width>
+    <height>600</height>
+  </originalimage>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>954495242</revision>
+  <tid>bbc27890-8f3e-11ea-9db8-ed88fad171a0</tid>
+  <timestamp>2020-05-02T18:28:42Z</timestamp>
+  <description>Primary federal law in the United States governing water pollution</description>
+  <description_source>central</description_source>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Clean_Water_Act</page>
+      <revisions>https://en.wikipedia.org/wiki/Clean_Water_Act?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Clean_Water_Act?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Clean_Water_Act</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Clean_Water_Act</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Clean_Water_Act</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Clean_Water_Act?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Clean_Water_Act</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Clean_Water_Act</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Clean_Water_Act</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Clean_Water_Act</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Clean_Water_Act</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Clean_Water_Act</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Clean_Water_Act</talk_page_html>
+  </api_urls>
+  <extract>The Clean Water Act (CWA) is the primary federal law in the United States governing water pollution. Its objective is to restore and maintain the chemical, physical, and biological integrity of the nation&#x27;s waters; recognizing the responsibilities of the states in addressing pollution and providing assistance to states to do so, including funding for publicly owned treatment works for the improvement of wastewater treatment; and maintaining the integrity of wetlands.</extract>
+  <extract_html>&lt;p&gt;The &lt;b&gt;Clean Water Act (CWA)&lt;/b&gt; is the primary federal law in the United States governing water pollution. Its objective is to restore and maintain the chemical, physical, and biological integrity of the nation&#x27;s waters; recognizing the responsibilities of the states in addressing pollution and providing assistance to states to do so, including funding for publicly owned treatment works for the improvement of wastewater treatment; and maintaining the integrity of wetlands.&lt;/p&gt;</extract_html>
+</root>

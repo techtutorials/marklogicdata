@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <type>standard</type>
+  <title>Environmental law</title>
+  <displaytitle>Environmental law</displaytitle>
+  <namespace>
+    <id>0</id>
+    <text></text>
+  </namespace>
+  <wikibase_item>Q328798</wikibase_item>
+  <titles>
+    <canonical>Environmental_law</canonical>
+    <normalized>Environmental law</normalized>
+    <display>Environmental law</display>
+  </titles>
+  <pageid>10091</pageid>
+  <thumbnail>
+    <source>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/320px-The_Earth_seen_from_Apollo_17.jpg</source>
+    <width>320</width>
+    <height>320</height>
+  </thumbnail>
+  <originalimage>
+    <source>https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg</source>
+    <width>3000</width>
+    <height>3002</height>
+  </originalimage>
+  <lang>en</lang>
+  <dir>ltr</dir>
+  <revision>951977180</revision>
+  <tid>0b380a30-9da8-11ea-8c8a-576584c92db0</tid>
+  <timestamp>2020-04-19T23:10:35Z</timestamp>
+  <description>rules of law, promoting the protection of the natural environment</description>
+  <description_source>central</description_source>
+  <content_urls>
+    <desktop>
+      <page>https://en.wikipedia.org/wiki/Environmental_law</page>
+      <revisions>https://en.wikipedia.org/wiki/Environmental_law?action=history</revisions>
+      <edit>https://en.wikipedia.org/wiki/Environmental_law?action=edit</edit>
+      <talk>https://en.wikipedia.org/wiki/Talk:Environmental_law</talk>
+    </desktop>
+    <mobile>
+      <page>https://en.m.wikipedia.org/wiki/Environmental_law</page>
+      <revisions>https://en.m.wikipedia.org/wiki/Special:History/Environmental_law</revisions>
+      <edit>https://en.m.wikipedia.org/wiki/Environmental_law?action=edit</edit>
+      <talk>https://en.m.wikipedia.org/wiki/Talk:Environmental_law</talk>
+    </mobile>
+  </content_urls>
+  <api_urls>
+    <summary>https://en.wikipedia.org/api/rest_v1/page/summary/Environmental_law</summary>
+    <metadata>https://en.wikipedia.org/api/rest_v1/page/metadata/Environmental_law</metadata>
+    <references>https://en.wikipedia.org/api/rest_v1/page/references/Environmental_law</references>
+    <media>https://en.wikipedia.org/api/rest_v1/page/media/Environmental_law</media>
+    <edit_html>https://en.wikipedia.org/api/rest_v1/page/html/Environmental_law</edit_html>
+    <talk_page_html>https://en.wikipedia.org/api/rest_v1/page/html/Talk:Environmental_law</talk_page_html>
+  </api_urls>
+  <extract>Environmental law is a collective term encompassing aspects of the law that provide protection to the environment. A related but distinct set of regulatory regimes, now strongly influenced by environmental legal principles, focus on the management of specific natural resources, such as forests, minerals, or fisheries. Other areas, such as environmental impact assessment, may not fit neatly into either category, but are nonetheless important components of environmental law.</extract>
+  <extract_html>&lt;p&gt;&lt;b&gt;Environmental law&lt;/b&gt; is a collective term encompassing aspects of the law that provide protection to the environment. A related but distinct set of regulatory regimes, now strongly influenced by environmental legal principles, focus on the management of specific natural resources, such as forests, minerals, or fisheries. Other areas, such as environmental impact assessment, may not fit neatly into either category, but are nonetheless important components of environmental law.&lt;/p&gt;</extract_html>
+</root>
